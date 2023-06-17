@@ -36,6 +36,7 @@ header nav ul li a {
 #presentation button {
   border-radius: 10px;
   background-color: #f56849;
+  box-shadow: 5px 3px 3px black;
   width: 150px;
   height: 80px;
 }
@@ -64,9 +65,26 @@ header nav ul li a {
   margin-left: 44%;
   border-radius: 10px;
   background-color: #f56849;
+  box-shadow: 5px 3px 3px black;
   width: 150px;
   height: 80px;
 }
 #About button a {
   text-decoration: none;
+}
+
+#SKILLS {
+  display: flex;
+  justify-content: space-between;
+  margin: 90px auto 150px 50px;
+}
+#SKILLS h1 {
+  font-size: 1.5em;
+  margin: 70px 30px 0 20px;
+}
+#SKILLS article {
+  padding-right: 20%;
+}
+#SKILLS article img {
+  width: 130px;
 }/*# sourceMappingURL=styles.css.map */
