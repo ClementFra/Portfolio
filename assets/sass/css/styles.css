@@ -1,0 +1,72 @@
+header {
+  background-color: #ece8e8;
+  border-radius: 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+header p {
+  font-size: 1.5em;
+}
+header nav {
+  font-size: 1.5em;
+  font-weight: 500;
+}
+header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+header nav ul li a {
+  text-decoration: none;
+}
+
+#presentation {
+  text-align: center;
+  margin-bottom: 15px;
+}
+#presentation img {
+  width: 15%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 5%;
+}
+#presentation button {
+  border-radius: 10px;
+  background-color: #f56849;
+  width: 150px;
+  height: 80px;
+}
+#presentation button a {
+  text-decoration: none;
+}
+
+#About {
+  background-color: #ece8e8;
+  border-radius: 10px;
+  padding: 10px;
+  width: 50%;
+  margin: 20px 0 0 450px;
+}
+#About h1 {
+  font-size: 1.5em;
+}
+#About h4 {
+  text-align: center;
+}
+#About p {
+  font-size: 1em;
+  margin: 10px 50px 20px;
+}
+#About button {
+  margin-left: 44%;
+  border-radius: 10px;
+  background-color: #f56849;
+  width: 150px;
+  height: 80px;
+}
+#About button a {
+  text-decoration: none;
+}/*# sourceMappingURL=styles.css.map */
