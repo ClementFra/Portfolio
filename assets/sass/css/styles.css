@@ -80,11 +80,76 @@ header nav ul li a {
 }
 #SKILLS h1 {
   font-size: 1.5em;
-  margin: 70px 30px 0 20px;
+  margin: 70px 20px 0 20px;
 }
 #SKILLS article {
   padding-right: 20%;
 }
 #SKILLS article img {
   width: 130px;
+}
+
+#Project h1 {
+  margin-left: 70px;
+}
+#Project #Booki {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+#Project #Booki h4 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+#Project #Booki p {
+  margin-right: 40px;
+}
+#Project #Booki img {
+  margin-top: 15px;
+  width: 90%;
+  border-radius: 15px;
+}
+#Project #Kanap {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  margin-top: 50px;
+}
+#Project #Kanap div {
+  margin-top: 40px;
+}
+#Project #Kanap div h4 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+#Project #Kanap div p {
+  margin-right: 40px;
+}
+#Project #Kanap img {
+  width: 50%;
+}
+#Project #Piquante {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+#Project #Piquante h4 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+#Project #Piquante img {
+  margin-top: 15px;
+}
+#Project #kasa {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+#Project #kasa h4 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+#Project #kasa img {
+  margin-top: 15px;
+  width: 70%;
 }/*# sourceMappingURL=styles.css.map */
