@@ -2,8 +2,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 20px auto;
   padding: 0 20px;
+  margin-bottom: 40px;
 }
 header p {
   font-size: 1.5em;
@@ -29,7 +29,8 @@ header nav ul li a {
   width: 15%;
   -o-object-fit: cover;
      object-fit: cover;
-  border-radius: 5%;
+  border-radius: 50%;
+  box-shadow: 15px 5px 5px #222b33;
 }
 #presentation button {
   border-radius: 10px;
@@ -48,6 +49,7 @@ header nav ul li a {
   margin: 50px 0 0 450px;
 }
 #About h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 1.5em;
   text-align: center;
 }
@@ -77,6 +79,7 @@ header nav ul li a {
   margin: 90px auto 150px 50px;
 }
 #SKILLS h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 2em;
   margin: 70px 20px 0 20px;
 }
@@ -88,7 +91,10 @@ header nav ul li a {
 }
 
 #Project h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
   margin-left: 70px;
+  margin-bottom: 60px;
+  text-align: center;
 }
 #Project #Booki {
   display: flex;
@@ -162,4 +168,24 @@ header nav ul li a {
   margin-top: 15px;
   margin-left: 5%;
   width: 70%;
+}
+
+#CONTACT {
+  text-align: center;
+  background-color: lightgrey;
+}
+#CONTACT h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #576674;
+}
+#CONTACT h4 {
+  color: #576674;
+}
+#CONTACT p {
+  color: #222b33;
+}
+#CONTACT h5 {
+  font-size: 1em;
+  font-style: italic;
+  padding-bottom: 10px;
 }/*# sourceMappingURL=styles.css.map */
