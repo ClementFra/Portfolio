@@ -1,5 +1,5 @@
-#introduction{
-  background-image:url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/) ;
+#introduction {
+  background-image: url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/);
 }
 header {
   display: flex;
@@ -24,7 +24,7 @@ header {
           color: #f56849;
           text-decoration: none;
         }
-        a:hover{
+        a:hover {
           color: white;
           text-decoration: underline #f56849;
         }
@@ -39,16 +39,15 @@ header {
   h1 {
     color: white;
   }
-  h4{
-    color: #E0DCDC;
+  h4 {
+    color: #e0dcdc;
   }
   img {
     width: 15%;
     object-fit: cover;
     border-radius: 50%;
-    
   }
-  img:hover{
+  img:hover {
     box-shadow: 15px 5px 5px #f56849;
   }
   button {
@@ -83,7 +82,7 @@ header {
     font-weight: bolder;
   }
   p {
-    color: white ;
+    color: white;
     font-size: 1.1em;
     margin: 10px 50px 20px;
     font-weight: bold;
@@ -112,10 +111,11 @@ header {
   background-color: lightgray;
   margin-top: -3px;
   margin-bottom: 40px;
-  height:300px;
+  height: 300px;
   align-items: center;
   h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
     font-size: 2em;
     margin-top: 60px;
     margin-left: 15px;
@@ -132,13 +132,14 @@ header {
 
 #Project {
   h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
     margin-left: 70px;
     margin-bottom: 60px;
     text-align: center;
   }
   h2 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #Booki {
@@ -160,7 +161,7 @@ header {
       width: 90%;
       border-radius: 15px;
     }
-    img:hover{
+    img:hover {
       opacity: 0.7;
     }
   }
@@ -184,7 +185,7 @@ header {
       margin-left: 25%;
       width: 50%;
     }
-    img:hover{
+    img:hover {
       opacity: 0.7;
     }
   }
@@ -203,7 +204,7 @@ header {
     img {
       margin-top: 15px;
     }
-    img:hover{
+    img:hover {
       opacity: 0.7;
     }
   }
@@ -225,7 +226,7 @@ header {
       margin-left: 5%;
       width: 70%;
     }
-    img:hover{
+    img:hover {
       opacity: 0.7;
     }
   }
@@ -235,26 +236,27 @@ header {
   text-align: center;
   background-color: lightgrey;
   h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
     color: #576674;
   }
   h4 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     color: #576674;
   }
   p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     color: #222b33;
   }
   h5 {
     font-size: 1em;
     font-style: italic;
-    a{
+    a {
       text-decoration: none;
       color: black;
     }
-    a:hover{
-      color:#f56849;
+    a:hover {
+      color: #f56849;
     }
   }
 }
