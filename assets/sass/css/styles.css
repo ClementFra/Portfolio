@@ -1,6 +1,4 @@
 header {
-  background-color: #ece8e8;
-  border-radius: 2em;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -45,14 +43,13 @@ header nav ul li a {
 }
 
 #About {
-  background-color: #ece8e8;
-  border-radius: 10px;
   padding: 10px;
   width: 50%;
-  margin: 20px 0 0 450px;
+  margin: 50px 0 0 450px;
 }
 #About h1 {
   font-size: 1.5em;
+  text-align: center;
 }
 #About h4 {
   text-align: center;
@@ -74,12 +71,13 @@ header nav ul li a {
 }
 
 #SKILLS {
+  padding: 10px;
   display: flex;
   justify-content: space-between;
   margin: 90px auto 150px 50px;
 }
 #SKILLS h1 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin: 70px 20px 0 20px;
 }
 #SKILLS article {
@@ -97,11 +95,14 @@ header nav ul li a {
   justify-content: space-between;
   padding-left: 20px;
 }
-#Project #Booki h4 {
+#Project #Booki div {
+  margin-left: 50px;
+}
+#Project #Booki div h4 {
   text-decoration: underline;
   text-decoration-color: red;
 }
-#Project #Booki p {
+#Project #Booki div p {
   margin-right: 40px;
 }
 #Project #Booki img {
@@ -117,6 +118,7 @@ header nav ul li a {
 }
 #Project #Kanap div {
   margin-top: 40px;
+  margin-left: 50px;
 }
 #Project #Kanap div h4 {
   text-decoration: underline;
@@ -134,7 +136,10 @@ header nav ul li a {
   justify-content: space-between;
   padding-left: 20px;
 }
-#Project #Piquante h4 {
+#Project #Piquante div {
+  margin-left: 50px;
+}
+#Project #Piquante div h4 {
   text-decoration: underline;
   text-decoration-color: red;
 }
@@ -146,7 +151,10 @@ header nav ul li a {
   justify-content: space-between;
   padding-left: 20px;
 }
-#Project #kasa h4 {
+#Project #kasa div {
+  margin-left: 50px;
+}
+#Project #kasa div h4 {
   text-decoration: underline;
   text-decoration-color: red;
 }
