@@ -1,3 +1,6 @@
+#introduction{
+  background-image:url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/) ;
+}
 header {
   display: flex;
   justify-content: space-between;
@@ -6,7 +9,7 @@ header {
   margin-bottom: 40px;
   p {
     font-size: 1.5em;
-    color: #576674;
+    color: white;
   }
   nav {
     font-size: 1.5em;
@@ -18,8 +21,12 @@ header {
       gap: 20px;
       li {
         a {
-          color: #576674;
+          color: #f56849;
           text-decoration: none;
+        }
+        a:hover{
+          color: white;
+          text-decoration: underline #f56849;
         }
       }
     }
@@ -30,13 +37,19 @@ header {
   text-align: center;
   margin-bottom: 15px;
   h1 {
-    color: #222b33;
+    color: white;
+  }
+  h4{
+    color: #E0DCDC;
   }
   img {
     width: 15%;
     object-fit: cover;
     border-radius: 50%;
-    box-shadow: 15px 5px 5px #222b33;
+    
+  }
+  img:hover{
+    box-shadow: 15px 5px 5px #f56849;
   }
   button {
     border-radius: 5em;
@@ -50,25 +63,30 @@ header {
   }
   button:hover {
     background-color: white;
-    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+    box-shadow: 12px 12px 2px 1px #f56849;
   }
 }
 
 #About {
   padding: 10px;
   width: 50%;
-  margin: 50px 0 0 450px;
+  margin: 10px 0 0 450px;
   h1 {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 1.5em;
     text-align: center;
+    color: white;
   }
   h4 {
     text-align: center;
+    color: #f56849;
+    font-weight: bolder;
   }
   p {
-    font-size: 1em;
+    color: white ;
+    font-size: 1.1em;
     margin: 10px 50px 20px;
+    font-weight: bold;
   }
   button {
     margin-left: 44%;
@@ -83,7 +101,7 @@ header {
   }
   button:hover {
     background-color: white;
-    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+    box-shadow: 12px 3px 2px 1px #f56849;
   }
 }
 
@@ -92,7 +110,7 @@ header {
   display: flex;
   justify-content: space-between;
   background-color: lightgray;
-  margin-top: 40px;
+  margin-top: -3px;
   margin-bottom: 40px;
   h1 {
     font-family: Georgia, "Times New Roman", Times, serif;
@@ -127,8 +145,7 @@ header {
     div {
       margin-left: 50px;
       h4 {
-        text-decoration: underline;
-        text-decoration-color: red;
+        text-decoration: underline red 3px;
       }
       p {
         margin-right: 40px;
@@ -140,6 +157,9 @@ header {
       width: 90%;
       border-radius: 15px;
     }
+    img:hover{
+      opacity: 0.7;
+    }
   }
   #Kanap {
     display: flex;
@@ -150,8 +170,7 @@ header {
       margin-top: 40px;
       margin-left: 50px;
       h4 {
-        text-decoration: underline;
-        text-decoration-color: red;
+        text-decoration: underline red 3px;
       }
       p {
         margin-right: 40px;
@@ -162,6 +181,9 @@ header {
       margin-left: 25%;
       width: 50%;
     }
+    img:hover{
+      opacity: 0.7;
+    }
   }
 
   #Piquante {
@@ -171,13 +193,15 @@ header {
     div {
       margin-left: 50px;
       h4 {
-        text-decoration: underline;
-        text-decoration-color: red;
+        text-decoration: underline red 3px;
       }
     }
 
     img {
       margin-top: 15px;
+    }
+    img:hover{
+      opacity: 0.7;
     }
   }
 
@@ -188,8 +212,7 @@ header {
     div {
       margin-left: 50px;
       h4 {
-        text-decoration: underline;
-        text-decoration-color: red;
+        text-decoration: underline red 3px;
       }
     }
 
@@ -197,6 +220,9 @@ header {
       margin-top: 15px;
       margin-left: 5%;
       width: 70%;
+    }
+    img:hover{
+      opacity: 0.7;
     }
   }
 }
