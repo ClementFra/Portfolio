@@ -1,3 +1,7 @@
+#introduction {
+  background-image: url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/);
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -7,6 +11,7 @@ header {
 }
 header p {
   font-size: 1.5em;
+  color: white;
 }
 header nav {
   font-size: 1.5em;
@@ -18,70 +23,100 @@ header nav ul {
   gap: 20px;
 }
 header nav ul li a {
+  color: #f56849;
   text-decoration: none;
+}
+header nav ul li a:hover {
+  color: white;
+  -webkit-text-decoration: underline #f56849;
+          text-decoration: underline #f56849;
 }
 
 #presentation {
   text-align: center;
   margin-bottom: 15px;
 }
+#presentation h1 {
+  color: white;
+}
+#presentation h4 {
+  color: #E0DCDC;
+}
 #presentation img {
   width: 15%;
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 50%;
-  box-shadow: 15px 5px 5px #222b33;
+}
+#presentation img:hover {
+  box-shadow: 15px 5px 5px #f56849;
 }
 #presentation button {
-  border-radius: 10px;
+  border-radius: 5em;
   background-color: #f56849;
-  box-shadow: 5px 3px 3px black;
   width: 150px;
   height: 80px;
 }
 #presentation button a {
   text-decoration: none;
+  color: #222b33;
+}
+#presentation button:hover {
+  background-color: white;
+  box-shadow: 12px 12px 2px 1px #f56849;
 }
 
 #About {
   padding: 10px;
   width: 50%;
-  margin: 50px 0 0 450px;
+  margin: 10px 0 0 450px;
 }
 #About h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 1.5em;
   text-align: center;
+  color: white;
 }
 #About h4 {
   text-align: center;
+  color: #f56849;
+  font-weight: bolder;
 }
 #About p {
-  font-size: 1em;
+  color: white;
+  font-size: 1.1em;
   margin: 10px 50px 20px;
+  font-weight: bold;
 }
 #About button {
   margin-left: 44%;
-  border-radius: 10px;
+  border-radius: 5em;
   background-color: #f56849;
-  box-shadow: 5px 3px 3px black;
   width: 150px;
   height: 80px;
 }
 #About button a {
   text-decoration: none;
+  color: #222b33;
+}
+#About button:hover {
+  background-color: white;
+  box-shadow: 12px 3px 2px 1px #f56849;
 }
 
 #SKILLS {
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  margin: 90px auto 150px 50px;
+  background-color: lightgray;
+  margin-top: -3px;
+  margin-bottom: 40px;
 }
 #SKILLS h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 2em;
-  margin: 70px 20px 0 20px;
+  margin-top: 60px;
+  margin-left: 15px;
 }
 #SKILLS article {
   padding-right: 20%;
@@ -96,6 +131,9 @@ header nav ul li a {
   margin-bottom: 60px;
   text-align: center;
 }
+#Project h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
 #Project #Booki {
   display: flex;
   justify-content: space-between;
@@ -105,8 +143,8 @@ header nav ul li a {
   margin-left: 50px;
 }
 #Project #Booki div h4 {
-  text-decoration: underline;
-  text-decoration-color: red;
+  -webkit-text-decoration: underline red 3px;
+          text-decoration: underline red 3px;
 }
 #Project #Booki div p {
   margin-right: 40px;
@@ -115,6 +153,9 @@ header nav ul li a {
   margin-top: 15px;
   width: 90%;
   border-radius: 15px;
+}
+#Project #Booki img:hover {
+  opacity: 0.7;
 }
 #Project #Kanap {
   display: flex;
@@ -127,8 +168,8 @@ header nav ul li a {
   margin-left: 50px;
 }
 #Project #Kanap div h4 {
-  text-decoration: underline;
-  text-decoration-color: red;
+  -webkit-text-decoration: underline red 3px;
+          text-decoration: underline red 3px;
 }
 #Project #Kanap div p {
   margin-right: 40px;
@@ -136,6 +177,9 @@ header nav ul li a {
 #Project #Kanap img {
   margin-left: 25%;
   width: 50%;
+}
+#Project #Kanap img:hover {
+  opacity: 0.7;
 }
 #Project #Piquante {
   display: flex;
@@ -146,11 +190,14 @@ header nav ul li a {
   margin-left: 50px;
 }
 #Project #Piquante div h4 {
-  text-decoration: underline;
-  text-decoration-color: red;
+  -webkit-text-decoration: underline red 3px;
+          text-decoration: underline red 3px;
 }
 #Project #Piquante img {
   margin-top: 15px;
+}
+#Project #Piquante img:hover {
+  opacity: 0.7;
 }
 #Project #kasa {
   display: flex;
@@ -161,13 +208,16 @@ header nav ul li a {
   margin-left: 50px;
 }
 #Project #kasa div h4 {
-  text-decoration: underline;
-  text-decoration-color: red;
+  -webkit-text-decoration: underline red 3px;
+          text-decoration: underline red 3px;
 }
 #Project #kasa img {
   margin-top: 15px;
   margin-left: 5%;
   width: 70%;
+}
+#Project #kasa img:hover {
+  opacity: 0.7;
 }
 
 #CONTACT {
@@ -187,5 +237,23 @@ header nav ul li a {
 #CONTACT h5 {
   font-size: 1em;
   font-style: italic;
-  padding-bottom: 10px;
+}
+
+footer {
+  margin-top: -50px;
+  padding-top: 15px;
+  background-color: black;
+}
+footer div {
+  display: flex;
+  margin-left: 45%;
+}
+footer div p {
+  color: white;
+  margin-right: 25px;
+}
+footer div img {
+  margin-top: 10px;
+  margin-right: 10px;
+  height: 30px;
 }/*# sourceMappingURL=styles.css.map */
