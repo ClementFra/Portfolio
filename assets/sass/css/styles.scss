@@ -6,6 +6,7 @@ header {
   margin-bottom: 40px;
   p {
     font-size: 1.5em;
+    color: #576674;
   }
   nav {
     font-size: 1.5em;
@@ -17,6 +18,7 @@ header {
       gap: 20px;
       li {
         a {
+          color: #576674;
           text-decoration: none;
         }
       }
@@ -27,6 +29,9 @@ header {
 #presentation {
   text-align: center;
   margin-bottom: 15px;
+  h1{
+    color: #222b33;
+  }
   img {
     width: 15%;
     object-fit: cover;
@@ -34,9 +39,8 @@ header {
     box-shadow: 15px 5px 5px #222b33;
   }
   button {
-    border-radius: 10px;
+    border-radius: 55%;
     background-color: #f56849;
-    box-shadow: 5px 3px 3px black;
     width: 150px;
     height: 80px;
     a {
@@ -63,9 +67,8 @@ header {
   }
   button {
     margin-left: 44%;
-    border-radius: 10px;
+    border-radius: 55%;
     background-color: #f56849;
-    box-shadow: 5px 3px 3px black;
     width: 150px;
     height: 80px;
     a {
@@ -78,11 +81,14 @@ header {
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  margin: 90px auto 150px 50px;
+  background-color: lightgray;
+  margin-top: 40px;
+  margin-bottom: 40px;
   h1 {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 2em;
-    margin: 70px 20px 0 20px;
+    margin-top: 60px;
+    margin-left: 15px;
   }
   article {
     padding-right: 20%;
@@ -98,6 +104,10 @@ header {
     margin-left: 70px;
     margin-bottom: 60px;
     text-align: center;
+  }
+  h2 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
   #Booki {
@@ -197,6 +207,24 @@ header {
   h5 {
     font-size: 1em;
     font-style: italic;
-    padding-bottom: 10px;
+  }
+}
+
+footer {
+  margin-top: -50px;
+  padding-top: 15px;
+  background-color: black;
+  div {
+    display: flex;
+    margin-left: 45%;
+    p {
+      color: white;
+      margin-right: 25px;
+    }
+    img {
+      margin-top: 10px;
+      margin-right: 10px;
+      height: 30px;
+    }
   }
 }

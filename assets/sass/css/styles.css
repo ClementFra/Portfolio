@@ -7,6 +7,7 @@ header {
 }
 header p {
   font-size: 1.5em;
+  color: #576674;
 }
 header nav {
   font-size: 1.5em;
@@ -18,12 +19,16 @@ header nav ul {
   gap: 20px;
 }
 header nav ul li a {
+  color: #576674;
   text-decoration: none;
 }
 
 #presentation {
   text-align: center;
   margin-bottom: 15px;
+}
+#presentation h1 {
+  color: #222b33;
 }
 #presentation img {
   width: 15%;
@@ -33,9 +38,8 @@ header nav ul li a {
   box-shadow: 15px 5px 5px #222b33;
 }
 #presentation button {
-  border-radius: 10px;
+  border-radius: 55%;
   background-color: #f56849;
-  box-shadow: 5px 3px 3px black;
   width: 150px;
   height: 80px;
 }
@@ -62,9 +66,8 @@ header nav ul li a {
 }
 #About button {
   margin-left: 44%;
-  border-radius: 10px;
+  border-radius: 55%;
   background-color: #f56849;
-  box-shadow: 5px 3px 3px black;
   width: 150px;
   height: 80px;
 }
@@ -76,12 +79,15 @@ header nav ul li a {
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  margin: 90px auto 150px 50px;
+  background-color: lightgray;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 #SKILLS h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 2em;
-  margin: 70px 20px 0 20px;
+  margin-top: 60px;
+  margin-left: 15px;
 }
 #SKILLS article {
   padding-right: 20%;
@@ -95,6 +101,9 @@ header nav ul li a {
   margin-left: 70px;
   margin-bottom: 60px;
   text-align: center;
+}
+#Project h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 #Project #Booki {
   display: flex;
@@ -187,5 +196,23 @@ header nav ul li a {
 #CONTACT h5 {
   font-size: 1em;
   font-style: italic;
-  padding-bottom: 10px;
+}
+
+footer {
+  margin-top: -50px;
+  padding-top: 15px;
+  background-color: black;
+}
+footer div {
+  display: flex;
+  margin-left: 45%;
+}
+footer div p {
+  color: white;
+  margin-right: 25px;
+}
+footer div img {
+  margin-top: 10px;
+  margin-right: 10px;
+  height: 30px;
 }/*# sourceMappingURL=styles.css.map */
