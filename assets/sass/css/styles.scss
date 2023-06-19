@@ -2,9 +2,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 20px auto;
   padding: 0 20px;
-
+  margin-bottom: 40px;
   p {
     font-size: 1.5em;
   }
@@ -31,7 +30,8 @@ header {
   img {
     width: 15%;
     object-fit: cover;
-    border-radius: 5%;
+    border-radius: 50%;
+    box-shadow: 15px 5px 5px #222b33;
   }
   button {
     border-radius: 10px;
@@ -50,6 +50,7 @@ header {
   width: 50%;
   margin: 50px 0 0 450px;
   h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 1.5em;
     text-align: center;
   }
@@ -79,6 +80,7 @@ header {
   justify-content: space-between;
   margin: 90px auto 150px 50px;
   h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 2em;
     margin: 70px 20px 0 20px;
   }
@@ -92,7 +94,10 @@ header {
 
 #Project {
   h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
     margin-left: 70px;
+    margin-bottom: 60px;
+    text-align: center;
   }
 
   #Booki {
@@ -173,5 +178,25 @@ header {
       margin-left: 5%;
       width: 70%;
     }
+  }
+}
+
+#CONTACT {
+  text-align: center;
+  background-color: lightgrey;
+  h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #576674;
+  }
+  h4 {
+    color: #576674;
+  }
+  p {
+    color: #222b33;
+  }
+  h5 {
+    font-size: 1em;
+    font-style: italic;
+    padding-bottom: 10px;
   }
 }
