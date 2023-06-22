@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/ClementFra/Portfolio</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pulls</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/actions</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/projects?query=is%3Aopen</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/security</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/c0e8063ad9e8389781af4e697fabd1927a6943de</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/3d00805b82f250677529af264375c135ce25e0b1</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/main/README.md</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/38a4e0b01810dfb1ae4c138967f52a59df4ae343</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/main/index.html</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/main/package-lock.json</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/main/package.json</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/releases</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/16</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/15</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/14</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/13</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/12</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/11</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/5</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/4</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/3</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/2</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/issues/1</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/compare</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/264f0bb303dbd718a16b1deb53a28d27db24c291</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/32f6ceb3ae1aceff9c2d50baa1830e90842e55f8</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/1cc8751d9b46c863ca89434768591bc5dce9ee93/README.md</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/find/main</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/main/README.md?plain=1</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/db8619ab774383d4b575da8a2dd790da64016b7a</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/1cc8751d9b46c863ca89434768591bc5dce9ee93/index.html</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/1cc8751d9b46c863ca89434768591bc5dce9ee93/package-lock.json</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/1cc8751d9b46c863ca89434768591bc5dce9ee93/package.json</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels?sort=name-asc</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels?sort=name-desc</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels?sort=count-desc</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels?sort=count-asc</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/bug</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/documentation</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/duplicate</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/enhancement</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/good%20first%20issue</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/help%20wanted</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/invalid</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/question</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/labels/wontfix</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/301ddbb58a6401b4bbb866bfeb56b86b03f06181</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/21</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/903f32e0d4d950fd6e300480e25ae08f8db236c0</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/10</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/cbce532f34e4ea24c0bd895612ada87c2ea9d347</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/76febc4343ecdd14a95676c880f594225adfd29d</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/find/1cc8751d9b46c863ca89434768591bc5dce9ee93</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/blob/1cc8751d9b46c863ca89434768591bc5dce9ee93/README.md?plain=1</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/c9099b99a551b30cda2cebad8972bd802ab67b9a</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/4aaad5b24f198740f1e80d2da4f9aded07bdba0c</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/c92fdb2f47a2965d8e70a2fdee5b0a439b1ead3a</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/21/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/21/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/21/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/b136a9ff2398170553405fceeb6262798a162c0a</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/26fc4d7558b19f1e1af547391c80f981582e2457</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/10/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/10/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/10/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/9</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/6fa0e6b85949a2dd93c3dc58a9d0582c580c8aa7</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/e2add9dc490bb288a6080d723826459f6ed20b90</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/20</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/19961e4160e23505af8c8c3e3eb3f681ccd019b3</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/16b409bc64d7665aaed37bb4640e55f565afe364</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/0e08ab33777f5337cfa7206df7e8822cef7eb585</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/77009ea1aa0a39934bd9f8baef0e6e1a3be1a4ff</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/22</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/273292001813c5ee7ef058c8822f3f4af3d6975a</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/9/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/9/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/9/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/19</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/8</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/e0879d2b63b2ce85e3fc7dff29d2b53d262efb93</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/c4169743fcf90bf1675bc26651990581e4f995ff</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/20/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/20/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/20/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/40d012d8f686f91862b7a349d754c502d7e579c5</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/2463acc704bd9e87ddf12197be013cbab52db903</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/2861a032295a0f434a92e4ced4a4df060cd172fd</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/22/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/22/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/22/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/19/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/19/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/19/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/8/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/8/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/8/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/18</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/7</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/facf2f46318cded03e5f87f77e73963ddd3795dc</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/6e187aa10c0f78ee64f63993de95b0895b1cea59</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/4ba7c2d71fe3b86882c5068d9710bf72beb0a999</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/cac6b3341cb881116dddfd67a844f4176c10c3f0</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/e04efc6eb0af84fabee311367f228ee8779b0a45</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/18/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/18/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/18/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/7/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/7/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/7/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/6</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/565d633b527813a433d895a31ab6e976365c432d</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/77094c2d45c0e7137940f6abe53906cea5281b12</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/17</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/295463a6d9079a91588615c1cff11e6d5b9df28b</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/6/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/6/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/6/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/fc2230db24c00868c39f70cee66a26a24056cb89</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/17/commits</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/17/checks</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/pull/17/files</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/28d22f345236383520e128cf8de85913abc467ad</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/ClementFra/Portfolio/commit/518f7cac8808f61b6d7779f409d457daf7e28412</loc>
+  <lastmod>2023-06-22T18:42:26+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+
+
+</urlset>
