@@ -22,14 +22,16 @@ header nav ul {
   margin-left: -10%;
 }
 header nav ul li a {
-  color: #b83500;
+  color: #b83b09;
   text-decoration: none;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bolder;
 }
 header nav ul li a:hover {
   color: white;
   -webkit-text-decoration: underline #f56849;
           text-decoration: underline #f56849;
+  text-underline-offset: 8px;
 }
 
 #presentation {
@@ -139,7 +141,7 @@ header nav ul li a:hover {
   margin-right: 10px;
 }
 #SKILLS article img:hover {
-  zoom: 150%;
+  zoom: 120%;
 }
 
 #Project h1 {
