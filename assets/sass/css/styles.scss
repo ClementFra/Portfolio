@@ -4,14 +4,10 @@
 }
 header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 0 20px;
+  padding-left: 70%;
   margin-bottom: 40px;
-  p {
-    font-size: 1.5em;
-    color: white;
-  }
   nav {
     font-size: 1.5em;
     font-weight: 500;
@@ -23,14 +19,16 @@ header {
       margin-left: -10%;
       li {
         a {
-          color: #f56849;
+          color: #b83b09;
           text-decoration: none;
           font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
             "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+          font-weight: bolder;
         }
         a:hover {
           color: white;
           text-decoration: underline #f56849;
+          text-underline-offset: 8px;
         }
       }
     }
@@ -50,9 +48,6 @@ header {
     width: 15%;
     object-fit: cover;
     border-radius: 50%;
-  }
-  img:hover {
-    box-shadow: 15px 5px 5px #f56849;
   }
   button {
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -77,6 +72,15 @@ header {
   padding: 10px;
   width: 50%;
   margin: 10px 0 0 450px;
+  h1,
+  h4,
+  p {
+    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+      0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+      0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+      0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+      0 0 2px black;
+  }
   h1 {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 1.5em;
@@ -90,6 +94,8 @@ header {
   }
   p {
     color: white;
+    border-radius: 5px;
+    font-style: italic;
     font-size: 1.1em;
     margin: 10px 50px 20px;
     font-weight: bold;
@@ -138,7 +144,7 @@ header {
       margin-right: 10px;
     }
     img:hover {
-      zoom: 150%;
+      zoom: 120%;
     }
   }
 }
