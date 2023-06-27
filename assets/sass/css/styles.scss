@@ -71,7 +71,7 @@ header {
 #About {
   padding: 10px;
   width: 50%;
-  margin: 10px 0 0 450px;
+  margin: 10px 0 30px 470px;
   h1,
   h4,
   p {
@@ -125,7 +125,7 @@ header {
   display: flex;
   justify-content: space-between;
   background-color: lightgray;
-  margin-top: -3px;
+  margin-top: -50px;
   margin-bottom: 40px;
   height: 300px;
   align-items: center;
@@ -341,113 +341,4 @@ footer {
   }
 }
 
-@media screen and (max-width: 400px) {
-  #introduction {
-    object-fit: scale-down;
-  }
-  header {
-    align-items: center;
-    margin-left: -250px;
-    nav {
-      font-size: 1em;
-    }
-  }
-  #presentation {
-    img {
-      width: 50%;
-    }
-  }
-  #About {
-    display: flex;
-    flex-direction: column;
-    margin-left: 100px;
-    p {
-      font-size: 1.1em;
-      margin: auto;
-    }
-    button {
-      margin-top: 20px;
-      margin-left: 20%;
-    }
-  }
 
-  #SKILLS {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-
-    article {
-      flex-direction: column;
-      img {
-        padding-left: 35px;
-        width: 120px;
-      }
-    }
-  }
-
-  #Project {
-    h1 {
-      margin-right: 40px;
-    }
-    h4 {
-      font-size: 0.8em;
-    }
-
-    article {
-      display: flex;
-      flex-direction: column;
-      margin-left: 10px;
-    }
-    #Booki {
-      img {
-        margin-left: 3%;
-      }
-    }
-    #lapanthere {
-      img {
-        margin-left: -10%;
-      }
-    }
-    #Kanap {
-      img {
-        margin-left: 20%;
-      }
-    }
-    #Piquante {
-      img {
-        margin-left: 2%;
-        width: 80%;
-      }
-    }
-    #kasa {
-      img {
-        margin-left: 10%;
-      }
-    }
-  }
-  #CONTACT {
-    p {
-      margin-left: 20px;
-    }
-  }
-  footer {
-    div {
-      margin-left: 20%;
-    }
-  }
-}
-
-@media screen and (max-width: 375px) {
-  header {
-    margin-left: -60%;
-  }
-
-  #SKILLS {
-    article {
-      img {
-        padding-left: 150px;
-        width: 20%;
-      }
-    }
-  }
-}
