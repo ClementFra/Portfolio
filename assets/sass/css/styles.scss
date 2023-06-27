@@ -1,3 +1,9 @@
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
 #introduction {
   background-image: url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/);
   object-fit: cover;
@@ -71,7 +77,7 @@ header {
 #About {
   padding: 10px;
   width: 50%;
-  margin: 10px 0 0 450px;
+  margin: 10px 0 30px 470px;
   h1,
   h4,
   p {
@@ -94,7 +100,6 @@ header {
   }
   p {
     color: white;
-    border-radius: 5px;
     font-style: italic;
     font-size: 1.1em;
     margin: 10px 50px 20px;
@@ -125,7 +130,7 @@ header {
   display: flex;
   justify-content: space-between;
   background-color: lightgray;
-  margin-top: -3px;
+  margin-top: -50px;
   margin-bottom: 40px;
   height: 300px;
   align-items: center;
@@ -341,13 +346,12 @@ footer {
   }
 }
 
+/***************************************
+********** RESPONSIVE MOBILE***********/
+
 @media screen and (max-width: 400px) {
-  #introduction {
-    object-fit: scale-down;
-  }
   header {
-    align-items: center;
-    margin-left: -250px;
+    margin-left: -230px;
     nav {
       font-size: 1em;
     }
@@ -360,10 +364,11 @@ footer {
   #About {
     display: flex;
     flex-direction: column;
-    margin-left: 100px;
+    margin-left: 90px;
+    width: 50%;
     p {
+      margin: 0;
       font-size: 1.1em;
-      margin: auto;
     }
     button {
       margin-top: 20px;
@@ -374,7 +379,7 @@ footer {
   #SKILLS {
     display: flex;
     flex-direction: column;
-    height: 100%;
+    height: 90%;
 
     article {
       flex-direction: column;
@@ -396,14 +401,18 @@ footer {
     article {
       display: flex;
       flex-direction: column;
-      margin-left: 10px;
+      margin-left: -20px;
     }
     #Booki {
       img {
+        width: 80%;
         margin-left: 3%;
       }
     }
     #lapanthere {
+      h4 {
+        width: 70%;
+      }
       img {
         margin-left: -10%;
       }
@@ -425,11 +434,6 @@ footer {
       }
     }
   }
-  #CONTACT {
-    p {
-      margin-left: 20px;
-    }
-  }
   footer {
     div {
       margin-left: 20%;
@@ -437,16 +441,118 @@ footer {
   }
 }
 
-@media screen and (max-width: 375px) {
+/************ IPHONE *****************/
+
+@media screen and (max-width: 390px) {
   header {
-    margin-left: -60%;
+    margin-left: -250px;
   }
 
   #SKILLS {
     article {
       img {
-        padding-left: 150px;
-        width: 20%;
+        margin-left: 90px;
+      }
+    }
+  }
+  #Project {
+    #Booki {
+      img {
+        margin-left: 50px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 375px) {
+  header {
+    margin-left: -240px;
+  }
+
+  #SKILLS {
+    article {
+      img {
+        margin-left: 90px;
+      }
+    }
+  }
+
+  #Project {
+    #Booki {
+      img {
+        margin-left: 30px;
+      }
+    }
+  }
+}
+
+/*************** SAMSUNG **************/
+
+@media screen and (max-width: 360px) {
+  #About {
+    margin-left: 70px;
+    p {
+      font-size: 0.9em;
+    }
+  }
+  #SKILLS {
+    h1 {
+      margin-left: -15px;
+    }
+    article {
+      img {
+        margin-left: 70px;
+        width: 35%;
+      }
+    }
+  }
+
+  #Project {
+    h1 {
+      font-size: 1.2em;
+      margin-left: 35px;
+    }
+    h4 {
+      font-size: 1em;
+    }
+    article {
+      p {
+        font-size: 0.8em;
+      }
+    }
+
+    #Booki {
+      p {
+        margin-left: 30px;
+      }
+      img {
+        margin-left: 50px;
+      }
+    }
+    #lapanthere {
+      p {
+        margin-left: 30px;
+      }
+    }
+    #Kanap {
+      p {
+        margin-left: 30px;
+      }
+    }
+    #Piquante {
+      p {
+        margin-left: 30px;
+      }
+      img {
+        margin-left: 30px;
+      }
+    }
+    #kasa {
+      p {
+        margin-left: 30px;
+      }
+      img {
+        margin-left: 50px;
       }
     }
   }

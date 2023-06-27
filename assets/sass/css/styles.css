@@ -1,3 +1,9 @@
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
 #introduction {
   background-image: url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/);
   -o-object-fit: cover;
@@ -71,7 +77,7 @@ header nav ul li a:hover {
 #About {
   padding: 10px;
   width: 50%;
-  margin: 10px 0 0 450px;
+  margin: 10px 0 30px 470px;
 }
 #About h1,
 #About h4,
@@ -91,7 +97,6 @@ header nav ul li a:hover {
 }
 #About p {
   color: white;
-  border-radius: 5px;
   font-style: italic;
   font-size: 1.1em;
   margin: 10px 50px 20px;
@@ -121,7 +126,7 @@ header nav ul li a:hover {
   display: flex;
   justify-content: space-between;
   background-color: lightgray;
-  margin-top: -3px;
+  margin-top: -50px;
   margin-bottom: 40px;
   height: 300px;
   align-items: center;
@@ -329,14 +334,11 @@ footer div img:hover {
   zoom: 120%;
 }
 
+/***************************************
+********** RESPONSIVE MOBILE***********/
 @media screen and (max-width: 400px) {
-  #introduction {
-    -o-object-fit: scale-down;
-       object-fit: scale-down;
-  }
   header {
-    align-items: center;
-    margin-left: -250px;
+    margin-left: -230px;
   }
   header nav {
     font-size: 1em;
@@ -347,11 +349,12 @@ footer div img:hover {
   #About {
     display: flex;
     flex-direction: column;
-    margin-left: 100px;
+    margin-left: 90px;
+    width: 50%;
   }
   #About p {
+    margin: 0;
     font-size: 1.1em;
-    margin: auto;
   }
   #About button {
     margin-top: 20px;
@@ -360,7 +363,7 @@ footer div img:hover {
   #SKILLS {
     display: flex;
     flex-direction: column;
-    height: 100%;
+    height: 90%;
   }
   #SKILLS article {
     flex-direction: column;
@@ -378,10 +381,14 @@ footer div img:hover {
   #Project article {
     display: flex;
     flex-direction: column;
-    margin-left: 10px;
+    margin-left: -20px;
   }
   #Project #Booki img {
+    width: 80%;
     margin-left: 3%;
+  }
+  #Project #lapanthere h4 {
+    width: 70%;
   }
   #Project #lapanthere img {
     margin-left: -10%;
@@ -396,19 +403,80 @@ footer div img:hover {
   #Project #kasa img {
     margin-left: 10%;
   }
-  #CONTACT p {
-    margin-left: 20px;
-  }
   footer div {
     margin-left: 20%;
   }
 }
-@media screen and (max-width: 375px) {
+/************ IPHONE *****************/
+@media screen and (max-width: 390px) {
   header {
-    margin-left: -60%;
+    margin-left: -250px;
   }
   #SKILLS article img {
-    padding-left: 150px;
-    width: 20%;
+    margin-left: 90px;
+  }
+  #Project #Booki img {
+    margin-left: 50px;
+  }
+}
+@media screen and (max-width: 375px) {
+  header {
+    margin-left: -240px;
+  }
+  #SKILLS article img {
+    margin-left: 90px;
+  }
+  #Project #Booki img {
+    margin-left: 30px;
+  }
+}
+/*************** SAMSUNG **************/
+@media screen and (max-width: 360px) {
+  #About {
+    margin-left: 70px;
+  }
+  #About p {
+    font-size: 0.9em;
+  }
+  #SKILLS h1 {
+    margin-left: -15px;
+  }
+  #SKILLS article img {
+    margin-left: 70px;
+    width: 35%;
+  }
+  #Project h1 {
+    font-size: 1.2em;
+    margin-left: 35px;
+  }
+  #Project h4 {
+    font-size: 1em;
+  }
+  #Project article p {
+    font-size: 0.8em;
+  }
+  #Project #Booki p {
+    margin-left: 30px;
+  }
+  #Project #Booki img {
+    margin-left: 50px;
+  }
+  #Project #lapanthere p {
+    margin-left: 30px;
+  }
+  #Project #Kanap p {
+    margin-left: 30px;
+  }
+  #Project #Piquante p {
+    margin-left: 30px;
+  }
+  #Project #Piquante img {
+    margin-left: 30px;
+  }
+  #Project #kasa p {
+    margin-left: 30px;
+  }
+  #Project #kasa img {
+    margin-left: 50px;
   }
 }/*# sourceMappingURL=styles.css.map */
