@@ -1,3 +1,9 @@
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
 #introduction {
   background-image: url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/);
   -o-object-fit: cover;
@@ -91,7 +97,6 @@ header nav ul li a:hover {
 }
 #About p {
   color: white;
-  border-radius: 5px;
   font-style: italic;
   font-size: 1.1em;
   margin: 10px 50px 20px;
@@ -327,4 +332,124 @@ footer div img {
 }
 footer div img:hover {
   zoom: 120%;
+}
+
+/***************************************
+********** RESPONSIVE MOBILE********/
+@media screen and (max-width: 400px) {
+  header {
+    margin-left: -230px;
+  }
+  header nav {
+    font-size: 1em;
+  }
+  #presentation img {
+    width: 50%;
+  }
+  #About {
+    display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+    width: 50%;
+  }
+  #About p {
+    margin: 0;
+    font-size: 1.1em;
+  }
+  #About button {
+    margin-top: 20px;
+    margin-left: 20%;
+  }
+  #SKILLS {
+    display: flex;
+    flex-direction: column;
+    height: 90%;
+  }
+  #SKILLS article {
+    flex-direction: column;
+  }
+  #SKILLS article img {
+    padding-left: 35px;
+    width: 120px;
+  }
+  #Project h1 {
+    margin-right: 40px;
+  }
+  #Project h4 {
+    font-size: 0.8em;
+  }
+  #Project article {
+    display: flex;
+    flex-direction: column;
+    margin-left: -20px;
+  }
+  #Project #Booki img {
+    width: 80%;
+    margin-left: 3%;
+  }
+  #Project #lapanthere h4 {
+    width: 70%;
+  }
+  #Project #lapanthere img {
+    margin-left: -10%;
+  }
+  #Project #Kanap img {
+    margin-left: 20%;
+  }
+  #Project #Piquante img {
+    margin-left: 2%;
+    width: 80%;
+  }
+  #Project #kasa img {
+    margin-left: 10%;
+  }
+  footer div {
+    margin-left: 20%;
+  }
+}
+@media screen and (max-width: 360px) {
+  #About p {
+    font-size: 0.9em;
+  }
+  #SKILLS h1 {
+    margin-left: -15px;
+  }
+  #SKILLS article img {
+    margin-left: 85px;
+    width: 35%;
+  }
+  #Project h1 {
+    font-size: 1.2em;
+    margin-left: 35px;
+  }
+  #Project h4 {
+    font-size: 1em;
+  }
+  #Project article p {
+    font-size: 0.8em;
+  }
+  #Project #Booki p {
+    margin-left: 30px;
+  }
+  #Project #Booki img {
+    margin-left: 50px;
+  }
+  #Project #lapanthere p {
+    margin-left: 30px;
+  }
+  #Project #Kanap p {
+    margin-left: 30px;
+  }
+  #Project #Piquante p {
+    margin-left: 30px;
+  }
+  #Project #Piquante img {
+    margin-left: 30px;
+  }
+  #Project #kasa p {
+    margin-left: 30px;
+  }
+  #Project #kasa img {
+    margin-left: 50px;
+  }
 }/*# sourceMappingURL=styles.css.map */
