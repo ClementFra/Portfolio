@@ -347,7 +347,7 @@ footer {
 }
 
 /***************************************
-********** RESPONSIVE MOBILE********/
+********** RESPONSIVE MOBILE***********/
 
 @media screen and (max-width: 400px) {
   header {
@@ -441,8 +441,56 @@ footer {
   }
 }
 
+/************ IPHONE *****************/
+
+@media screen and (max-width: 390px) {
+  header {
+    margin-left: -250px;
+  }
+
+  #SKILLS {
+    article {
+      img {
+        margin-left: 90px;
+      }
+    }
+  }
+  #Project {
+    #Booki {
+      img {
+        margin-left: 50px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 375px) {
+  header {
+    margin-left: -240px;
+  }
+
+  #SKILLS {
+    article {
+      img {
+        margin-left: 90px;
+      }
+    }
+  }
+
+  #Project {
+    #Booki {
+      img {
+        margin-left: 30px;
+      }
+    }
+  }
+}
+
+/*************** SAMSUNG **************/
+
 @media screen and (max-width: 360px) {
   #About {
+    margin-left: 70px;
     p {
       font-size: 0.9em;
     }
@@ -453,7 +501,7 @@ footer {
     }
     article {
       img {
-        margin-left: 85px;
+        margin-left: 70px;
         width: 35%;
       }
     }

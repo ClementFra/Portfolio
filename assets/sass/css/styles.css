@@ -335,7 +335,7 @@ footer div img:hover {
 }
 
 /***************************************
-********** RESPONSIVE MOBILE********/
+********** RESPONSIVE MOBILE***********/
 @media screen and (max-width: 400px) {
   header {
     margin-left: -230px;
@@ -407,7 +407,34 @@ footer div img:hover {
     margin-left: 20%;
   }
 }
+/************ IPHONE *****************/
+@media screen and (max-width: 390px) {
+  header {
+    margin-left: -250px;
+  }
+  #SKILLS article img {
+    margin-left: 90px;
+  }
+  #Project #Booki img {
+    margin-left: 50px;
+  }
+}
+@media screen and (max-width: 375px) {
+  header {
+    margin-left: -240px;
+  }
+  #SKILLS article img {
+    margin-left: 90px;
+  }
+  #Project #Booki img {
+    margin-left: 30px;
+  }
+}
+/*************** SAMSUNG **************/
 @media screen and (max-width: 360px) {
+  #About {
+    margin-left: 70px;
+  }
   #About p {
     font-size: 0.9em;
   }
@@ -415,7 +442,7 @@ footer div img:hover {
     margin-left: -15px;
   }
   #SKILLS article img {
-    margin-left: 85px;
+    margin-left: 70px;
     width: 35%;
   }
   #Project h1 {
