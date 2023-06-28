@@ -1,8 +1,16 @@
+/*******************************
+********** GENERALS ************
+********************************/
+
 html,
 body {
   width: 100%;
   overflow-x: hidden;
 }
+
+/*******************************
+********** TOP PAGE ************
+********************************/
 
 #introduction {
   background-image: url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/);
@@ -125,6 +133,10 @@ header {
   }
 }
 
+/**************************
+******** SKILLS ***********
+***************************/
+
 #SKILLS {
   padding: 10px;
   display: flex;
@@ -153,6 +165,9 @@ header {
     }
   }
 }
+/*****************************
+******** MIDDLE PAGE *********
+******************************/
 
 #Project {
   h1 {
@@ -293,6 +308,10 @@ header {
   }
 }
 
+/*****************************
+******** FOOTER PAGE *********
+******************************/
+
 #CONTACT {
   text-align: center;
   background-color: lightgrey;
@@ -349,7 +368,7 @@ footer {
 /***************************************
 ********** RESPONSIVE MOBILE***********/
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 412px) {
   header {
     margin-left: -230px;
     nav {
@@ -445,7 +464,7 @@ footer {
 
 @media screen and (max-width: 390px) {
   header {
-    margin-left: -250px;
+    margin-left: -230px;
   }
 
   #SKILLS {
@@ -466,7 +485,7 @@ footer {
 
 @media screen and (max-width: 375px) {
   header {
-    margin-left: -240px;
+    margin-left: -220px;
   }
 
   #SKILLS {
