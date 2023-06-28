@@ -315,6 +315,7 @@ header {
 #CONTACT {
   text-align: center;
   background-color: lightgrey;
+  padding-bottom: 10px;
   h1 {
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serif;
@@ -342,7 +343,6 @@ header {
 }
 
 footer {
-  margin-top: -26px;
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: black;
