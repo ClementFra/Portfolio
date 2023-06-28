@@ -1,9 +1,15 @@
+/*******************************
+********** GENERALS ************
+********************************/
 html,
 body {
   width: 100%;
   overflow-x: hidden;
 }
 
+/*******************************
+********** TOP PAGE ************
+********************************/
 #introduction {
   background-image: url(https://pictures.ubiq.fr/c55dd5a6-dd90-4181-90e7-6c5708333612/-/quality/lighter/-/resize/2000x/);
   -o-object-fit: cover;
@@ -121,6 +127,9 @@ header nav ul li a:hover {
   box-shadow: 5px 5px 2px 1px #f56849;
 }
 
+/**************************
+******** SKILLS ***********
+***************************/
 #SKILLS {
   padding: 10px;
   display: flex;
@@ -149,6 +158,9 @@ header nav ul li a:hover {
   zoom: 120%;
 }
 
+/*****************************
+******** MIDDLE PAGE *********
+******************************/
 #Project h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   margin-left: 70px;
@@ -283,6 +295,9 @@ header nav ul li a:hover {
   opacity: 0.7;
 }
 
+/*****************************
+******** FOOTER PAGE *********
+******************************/
 #CONTACT {
   text-align: center;
   background-color: lightgrey;
@@ -336,7 +351,7 @@ footer div img:hover {
 
 /***************************************
 ********** RESPONSIVE MOBILE***********/
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 415px) {
   header {
     margin-left: -230px;
   }
